@@ -106,10 +106,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_processing2
-      sha256: "78f65798e8a01f3485f263b682ba8467eac461d4a752acdfb9ea6a8c9277e833"
+      sha256: "22ed9e6f72f4146b40fa70782bd5921466b756815c8177a83fd66d5e0ef0a092"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.0-dev.6"
+    version: "2.0.0-dev.7"
   flutter_test:
     dependency: "direct dev"
     description: flutter
